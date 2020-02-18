@@ -1,0 +1,14 @@
+.li-dec {
+  text-decoration: underline;
+  color: green;
+  font-size: 15px;
+  font-family: "monospace";
+}
+
+.ol-dec {
+  font-weight: bold;
+}
+
+.background-light {
+  background-color: lightgray;
+}
